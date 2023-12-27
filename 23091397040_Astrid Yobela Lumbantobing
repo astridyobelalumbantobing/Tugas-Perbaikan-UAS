@@ -1,0 +1,21 @@
+def walk ():
+move ()
+move ()
+move ()
+move ()
+move ()
+move ()
+
+
+def turn_around () :
+turn_left ()
+turn_left ()
+move ()
+move ()
+move ()
+move ()
+move ()
+
+walk ()
+build_wall ()
+turn_around ()
